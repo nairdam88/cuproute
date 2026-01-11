@@ -11,7 +11,7 @@ Search by name or city, sort by distance using device location, and open any caf
 * Open a cafe location in Karoo navigation.
 
 ## Screenshot
-![CupRoute on Hammerhead Karoo](cuproute-release/resource/hammerhead-karoo-cuproute-screenshot.png)
+![CupRoute on Hammerhead Karoo](resource/hammerhead-karoo-cuproute-screenshot.png)
 
 ## Data source
 The cafe list is bundled in `app/src/main/assets/cf-db.json`.
