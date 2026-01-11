@@ -28,3 +28,8 @@ Long version: A few days ago I bought my Hammerhead Karoo 3. While exploring it,
   <video src="https://github.com/user-attachments/assets/7b70c655-12a7-470b-ae3e-81774c27d435"></video>
 </p>
 
+---
+
+Buy me a coffee if you enjoyed this app: [https://ko-fi.com/nairdam](https://ko-fi.com/nairdam) ☕
+
+
