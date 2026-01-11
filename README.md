@@ -30,6 +30,8 @@ Long version: A few days ago I bought my Hammerhead Karoo 3. While exploring it,
 
 ---
 
+The app is absolutely free, if you find it useful, consider calling me for a cup of coffee.
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nairdam)
 
 
