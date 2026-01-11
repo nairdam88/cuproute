@@ -21,17 +21,6 @@ Long version: A few days ago I bought my Hammerhead Karoo 3. While exploring it,
 - 🧭 Open a cafe location in Karoo navigation.
 
 ## Installation and usage videos
-<table>
-  <tr>
-    <td align="center"><strong>Installation</strong></td>
-    <td align="center"><strong>Usage</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <video src="resource/installation-cuproute.mp4" controls></video>
-    </td>
-    <td>
-      <video src="resource/karoo-capcut.mp4" controls></video>
-    </td>
-  </tr>
-</table>
+ <video src="https://github.com/user-attachments/assets/a1c96d50-1844-4776-9401-cc19f78597dd" controls></video>
+ <video src="https://github.com/user-attachments/assets/7b70c655-12a7-470b-ae3e-81774c27d435" controls></video>
+
