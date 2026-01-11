@@ -22,9 +22,9 @@ Long version: A few days ago I bought my Hammerhead Karoo 3. While exploring it,
 
 ## Installation and usage videos
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/a1c96d50-1844-4776-9401-cc19f78597dd" controls></video>
+  <video src="https://github.com/user-attachments/assets/a1c96d50-1844-4776-9401-cc19f78597dd"></video>
 </p>
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/7b70c655-12a7-470b-ae3e-81774c27d435" controls></video>
+  <video src="https://github.com/user-attachments/assets/7b70c655-12a7-470b-ae3e-81774c27d435"></video>
 </p>
 
