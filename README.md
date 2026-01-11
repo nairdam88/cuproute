@@ -23,13 +23,16 @@ Long version: A few days ago I bought my Hammerhead Karoo 3. While exploring it,
 ## Installation
 For installation, please follow the [official Hammerhead Companion App Sideloading guide](https://support.hammerhead.io/hc/en-us/articles/31576497036827-Companion-App-Sideloading) or check the videos below.
 
+To update or uninstall, long-press the app name in the extensions list.
+
 ## Installation and usage videos
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/a1c96d50-1844-4776-9401-cc19f78597dd"></video>
-</p>
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/7b70c655-12a7-470b-ae3e-81774c27d435"></video>
-</p>
+Sideloading from a phone:
+<video src="https://github.com/user-attachments/assets/a1c96d50-1844-4776-9401-cc19f78597dd"></video>
+Quick overview of the app:
+<video src="https://github.com/user-attachments/assets/7b70c655-12a7-470b-ae3e-81774c27d435"></video>
+Updating and removing the app:
+<video src="https://github.com/user-attachments/assets/90d634a2-2961-4bab-8868-1a1b95e4fd9c"></video>
+
 
 ---
 
