@@ -27,11 +27,11 @@ Long version: A few days ago I bought my Hammerhead Karoo 3. While exploring it,
     <td align="center"><strong>Usage</strong></td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="resource/installation-cuproute.mp4">Watch installation video (MP4)</a>
+    <td>
+      <video src="resource/installation-cuproute.mp4" controls></video>
     </td>
-    <td align="center">
-      <a href="resource/karoo-capcut.mp4">Watch usage video (MP4)</a>
+    <td>
+      <video src="resource/karoo-capcut.mp4" controls></video>
     </td>
   </tr>
 </table>
