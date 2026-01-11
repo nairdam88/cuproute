@@ -1,10 +1,12 @@
 # CupRoute app for Hammerhead Karoo
 
+Fully offline speciality coffee shop finder for Hammerhead Karoo.
+
 <p align="center">
   <img src="resource/hammerhead-karoo-cuproute-screenshot.png" alt="CupRoute on Hammerhead Karoo" width="360" />
 </p>
 <p align="center">
-  <em>Local-only cafe finder for Karoo with a curated list of speciality coffee shops.</em>
+  <em>Fully offline speciality coffee shop finder for Karoo.</em>
 </p>
 
 ---
