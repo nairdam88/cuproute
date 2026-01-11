@@ -12,10 +12,8 @@ Fully offline speciality coffee shop finder for Hammerhead Karoo.
 ---
 
 ## Features
-- ☕ Offline-first JSON data bundled in the app.
+- ☕ Fully offline.
 - 🔎 Search cafes by name or city.
 - 📍 Sort cafes by distance using current location.
+- 🕒 Filter places by open now.
 - 🧭 Open a cafe location in Karoo navigation.
-
-## Data source
-The cafe list is bundled in `app/src/main/assets/cf-db.json`.
