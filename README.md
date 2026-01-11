@@ -20,6 +20,9 @@ Long version: A few days ago I bought my Hammerhead Karoo 3. While exploring it,
 - 🕒 Filter places by open now.
 - 🧭 Open a cafe location in Karoo navigation.
 
+## Installation
+For installation, please follow the [official Hammerhead Companion App Sideloading guide](https://support.hammerhead.io/hc/en-us/articles/31576497036827-Companion-App-Sideloading) or check the videos below.
+
 ## Installation and usage videos
 <p align="center">
   <video src="https://github.com/user-attachments/assets/a1c96d50-1844-4776-9401-cc19f78597dd"></video>
