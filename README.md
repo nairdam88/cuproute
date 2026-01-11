@@ -1,18 +1,17 @@
-# CupRoute release artifacts
+# **CupRoute** app for Hammerhead Karoo
 
-This folder is the publish-ready output used by the updater and GitHub Releases.
+## Description
+Local-only cafe finder for Karoo with a curated list of speciality coffee shops.
+Search by name or city, sort by distance using device location, and open any cafe in Karoo navigation.
 
-Contents:
-- cuproute-release.apk
-- manifest-karoo.json
+## Features
+* Local JSON data bundled in the app (offline).
+* Search cafes by name or city.
+* Sort cafes by distance using current location.
+* Open a cafe location in Karoo navigation.
 
-Notes:
-- `manifest-karoo.json` includes `apkSha256` for integrity checks.
-- The raw GitHub URLs expect these files on the `main` branch.
+## Screenshot
+![CupRoute on Hammerhead Karoo](cuproute-release/resource/hammerhead-karoo-cuproute-screenshot.png)
 
-About:
-TL;DR: I built an app to quickly find specialty coffee stores near your route in the EU.
-
-Long version: A week ago I bought my Hammerhead Karoo 3 and read about their SDK. I started playing with it and here is the result. This was my first idea, and I think it is useful. I hope others will like it too.
-
-The best part is that it is completely offline.
+## Data source
+The cafe list is bundled in `app/src/main/assets/cf-db.json`.
