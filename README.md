@@ -30,6 +30,6 @@ Long version: A few days ago I bought my Hammerhead Karoo 3. While exploring it,
 
 ---
 
-Buy me a coffee if you enjoyed this app: [https://ko-fi.com/nairdam](https://ko-fi.com/nairdam) ☕
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nairdam)
 
 
